@@ -1,0 +1,4 @@
+Dataset yang diuji:
+1. scikit-learn Toy Dataset Iris
+2. scikit-learn Toy Dataset Wine
+3. scikit-learn Toy Dataset Breast Cancer
